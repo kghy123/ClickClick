@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\projects\\ClickClick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\기현\\.android\\build-cache\\bac49cceb21d5918c29d3eb9ed95be9d3a3c4f4a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\ClickClick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\기현\\.android\\build-cache\\bac49cceb21d5918c29d3eb9ed95be9d3a3c4f4a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\ClickClick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\기현\\.android\\build-cache\\bac49cceb21d5918c29d3eb9ed95be9d3a3c4f4a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Android\\projects\\ClickClick\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\기현\\.android\\build-cache\\bac49cceb21d5918c29d3eb9ed95be9d3a3c4f4a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
